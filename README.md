@@ -1,5 +1,3 @@
-#Proyecto ResourceGetter
-
 ### ResourceGetter
 
 El microservicio ResourceGetter obtiene la información de los recursos de la siguiente URL:
